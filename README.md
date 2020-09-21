@@ -17,4 +17,4 @@ It references a few resouces on what to build:
 
 ### Blockchains
 
-- [Python: Learn Blockchain by Building One]("./blockchain/python/learn_blockchains_by_building_one")
+- [Python: Learn Blockchain by Building One](./blockchain/python/learn_blockchains_by_building_one)
