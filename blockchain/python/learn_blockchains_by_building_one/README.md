@@ -12,6 +12,11 @@ Blockchain is implemented as a http server receiving commands in the form of req
 
 Validation of transactions is not implemented.
 
+## Dependencies
+
+- Flask
+- requests
+
 ## Lesson learnt
 
 - General knowledge of how blockchain works

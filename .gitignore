@@ -1,3 +1,11 @@
+.vscode
+
 .venv
 .mypy_cache
-.vscode
+
+# Node and typescript stuff
+node_modules/
+build/
+
+/package-lock.json
+/package.json

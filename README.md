@@ -8,12 +8,15 @@ It references a few resouces on what to build:
 
 ## Table of Contents
 
-<!-- - [Compilers](###Compilers) -->
-<!-- - [Intrepreters](###Intrepreters) -->
-
 - [Blockchains](###Blockchain)
 
 ## Contents
+
+Note that for my own learning purposes and preferences, I decided to swap out most of the javascript based tutorial into typescript. You can choose to follow the original tutorial if you so choose.
+
+### Programming Languages
+
+- [Typescript: The Super Tiny Compiler](./programming_languages/typescript/the_super_tiny_compiler)
 
 ### Blockchains
 
