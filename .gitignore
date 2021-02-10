@@ -1,7 +1,9 @@
 .vscode
 
+# Python stuff
 .venv
 .mypy_cache
+__pycache__
 
 # Node and typescript stuff
 node_modules/

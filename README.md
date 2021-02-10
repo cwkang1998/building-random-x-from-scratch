@@ -17,7 +17,7 @@ Note that for my own learning purposes and preferences, I decided to swap out mo
 ### Programming Languages
 
 - [Typescript: The Super Tiny Compiler](./programming_languages/typescript/the_super_tiny_compiler)
-
+- [Python: A python intrepreter written in python](./programming_languages/python/a_python_interpreter_written_in_python)
 ### Blockchains
 
 - [Python: Learn Blockchain by Building One](./blockchain/python/learn_blockchains_by_building_one)
