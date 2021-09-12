@@ -1,0 +1,28 @@
+{
+  "name": "building-random-x-from-scratch",
+  "version": "1.0.0",
+  "description": "This repository contains the implementation and experimentations from attempting to build multiple technologies.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.11.1",
+    "@typescript-eslint/parser": "^4.11.1",
+    "eslint": "^7.16.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "^2.2.1",
+    "prettier-eslint": "^11.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwkang1998/building-random-x-from-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwkang1998/building-random-x-from-scratch/issues"
+  },
+  "homepage": "https://github.com/cwkang1998/building-random-x-from-scratch#readme"
+}

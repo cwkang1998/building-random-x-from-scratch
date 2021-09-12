@@ -5,13 +5,13 @@ description = ""
 authors = ["chen <23054115+cwkang1998@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 textX = "^2.3.0"
 ppci = "^0.5.8"
 
 [tool.poetry.dev-dependencies]
-mypy = "^0.812"
-flake8 = "^3.9.1"
+mypy = "^0.910"
+flake8 = "^3.9.2"
 autopep8 = "^1.5.7"
 
 [build-system]
