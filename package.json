@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "This repository contains the implementation and experimentations from attempting to build multiple technologies.",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
+    "@types/node": "^16.10.2",
     "@typescript-eslint/eslint-plugin": "^4.11.1",
     "@typescript-eslint/parser": "^4.11.1",
     "eslint": "^7.16.0",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.22.1",
     "prettier": "^2.2.1",
     "prettier-eslint": "^11.0.0"
