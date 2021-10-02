@@ -1,4 +1,4 @@
-export const ieee754 = (n: number): Uint8Array => {
+export const ieee754 = (n: number) => {
   const buf = Buffer.allocUnsafe(4);
   buf.writeFloatLE(n, 0);
   return Uint8Array.from(buf);

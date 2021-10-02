@@ -2,7 +2,15 @@ interface Tokenizer {
   (input: string): Token[];
 }
 
-type TokenType = 'number' | 'keyword' | 'whitespace';
+type TokenType =
+  | 'number'
+  | 'keyword'
+  | 'whitespace'
+  | 'operator'
+  | 'parens'
+  | 'operator'
+  | 'identifier'
+  | 'assignment';
 
 interface Token {
   type: TokenType;
