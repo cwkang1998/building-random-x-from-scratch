@@ -12,9 +12,10 @@ It references a few resouces on what to build:
   - [Table of Contents](#table-of-contents)
   - [Contents](#contents)
     - [Programming Languages](#programming-languages)
-    - [Blockchains](#blockchains)
+    - [Blockchain](#blockchain)
     - [Templating engine](#templating-engine)
     - [Webserver](#webserver)
+    - [Static site generator](#static-site-generator)
 
 ## Contents
 
@@ -28,7 +29,7 @@ Note that for my own learning purposes and preferences, I decided to swap out mo
 - [Python: lisp.py](./programming_languages/python/lisp.py)
 - [Python: Simple language using textx](./programming_languages/python/textx_simple_lang)
 
-### Blockchains
+### Blockchain
 
 - [Python: Learn Blockchain by Building One](./blockchain/python/learn_blockchains_by_building_one)
 
@@ -40,3 +41,7 @@ Note that for my own learning purposes and preferences, I decided to swap out mo
 ### Webserver
 
 - [Python: A simple web server](./web_server/python/a_simple_web_server)
+
+### Static site generator
+
+- [Rust: Building a static site generator in 100 lines of rust](./static_site_generator/rust/building_a_static_site_generator_in_100_lines_of_rust)
