@@ -1,5 +1,5 @@
-from token import Token
-from scanner import ScannerError, SimpleScanner
+from .token import Token
+from .scanner import ScannerError, SimpleScanner
 
 
 class Tokenizer:

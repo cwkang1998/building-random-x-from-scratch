@@ -1,6 +1,6 @@
 
 
-from token import Token
+from .token import Token
 
 
 SPECIAL_TOKEN = {
