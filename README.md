@@ -29,7 +29,7 @@ Note that for my own learning purposes and preferences, I decided to swap out mo
 - [Python: A python intrepreter written in python](./programming_languages/a_python_interpreter_written_in_python)
 - [Python: lisp.py](./programming_languages/lisp.py)
 - [Python: Simple language using textx](./programming_languages/textx_simple_lang)
-
+- [Python: Writing a markdown compiler](./programming_languages/writing_a_markdown_compiler)
 ### Blockchain
 
 - [Python: Learn Blockchain by Building One](./blockchain/learn_blockchains_by_building_one)
