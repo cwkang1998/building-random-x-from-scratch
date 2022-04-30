@@ -8,6 +8,7 @@ authors = ["chen <23054115+cwkang1998@users.noreply.github.com>"]
 python = "^3.9"
 textX = "^2.3.0"
 ppci = "^0.5.8"
+Flask = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.910"
