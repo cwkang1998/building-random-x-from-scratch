@@ -33,6 +33,7 @@ Note that for my own learning purposes and preferences, I decided to swap out mo
 ### Blockchain
 
 - [Python: Learn Blockchain by Building One](./blockchain/learn_blockchains_by_building_one)
+- [Python: Let's build the tiniest blockchain](./blockchain/lets_build_the_tiniest_blockchain)
 
 ### Static site generator
 
