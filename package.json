@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/cwkang1998/building-random-x-from-scratch/issues"
   },
-  "homepage": "https://github.com/cwkang1998/building-random-x-from-scratch#readme"
+  "homepage": "https://github.com/cwkang1998/building-random-x-from-scratch#readme",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
 }

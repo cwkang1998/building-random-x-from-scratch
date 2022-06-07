@@ -38,9 +38,11 @@ Note that for my own learning purposes and preferences, I decided to swap out mo
 ### Static site generator
 
 - [Rust: Building a static site generator in 100 lines of rust](./static_site_generator/building_a_static_site_generator_in_100_lines_of_rust)
+
 ### Templating engine
 
 - [Python: Approach: Building a toy template engine in Python](./templating_engine/approach_building_a_toy_template_engine_in_python)
+- [Typescript: Javascript template engine in just 20 lines](./templating_engine/javascript_template_engine_in_just_20_lines)
 
 ### Text Editor
 
