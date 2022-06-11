@@ -17,6 +17,7 @@ It references a few resouces on what to build:
     - [Templating engine](#templating-engine)
     - [Text Editor](#text-editor)
     - [Webserver](#webserver)
+    - [Shell](#shell)
 
 ## Contents
 
@@ -52,3 +53,6 @@ Note that for my own learning purposes and preferences, I decided to swap out mo
 
 - [Python: A simple web server](./web_server/a_simple_web_server)
 
+### Shell
+
+- [Rust: Build your own shell using Rust](./shell/build_your_own_shell_using_rust)
